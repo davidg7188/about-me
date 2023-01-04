@@ -2,7 +2,7 @@
 ## David Gandara
 ## _Student_
 ### [davidg7188@hstat.org](davidg7188@hstat.org)
-I was born and raised in New York City, and I'm alive
+I was born and raised in Reno, Nevada, and I do good in school
 
 Schedule:
 
@@ -14,3 +14,5 @@ Schedule:
 * Chemistry
 * Weight Training
 * Algebra Two
+
+Reviewed by Mahrus Jahan
